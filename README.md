@@ -1,13 +1,7 @@
 # Hi there, I'm Dorotea Monaco! 👋
 
 ## 🎓 About Me
-I'm a **Software Engineer** and **AI Engineer** pursuing my Master's in Software Engineering at Politecnico di Torino. Passionate about creating **human-centered solutions** that combine cutting-edge technology with accessibility and social impact.
-
-## 💻 What I Do
-- 🤖 **AI/ML Development**: Building intelligent systems with PyTorch, Neural Networks, and LLMs
-- 🌐 **Full-Stack Development**: Creating modern web applications with React, Node.js, and TypeScript
-- ⚡ **Performance-Focused**: Developing high-performance applications with Rust and low-level programming
-- 🎯 **Accessibility Advocate**: Designing inclusive technology that empowers everyone
+I'm a **Software Engineer** with a strong interest in **Artificial Intelligence**, currently pursuing my Master's in Software Engineering at Politecnico di Torino. I'm passionate about building human-centered solutions, and I'm actively expanding my AI skills through self-directed study to combine cutting-edge technology with accessibility and social impact.
 
 ## 🛠️ Tech Stack
 
