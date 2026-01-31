@@ -31,16 +31,6 @@ I'm a **Software Engineer** specializing in **Artificial Intelligence** and **Co
 - 🃏 **[Misfortune Game](https://github.com/doroteaMonaco/Misfortune-Game-Web-App-1)**: Strategic card game with React frontend and real-time gameplay mechanics.
 - 🕹️ **[Pacman](https://github.com/doroteaMonaco/PACMAN)**: Classic arcade game implementation in ARM Assembly for Landtiger LPC1768 with AI-driven ghost behavior.
 
-## 📝 Publications
-
-- **GANs for Data Augmentation in Imbalanced Medical Image Classification** (2025)  
-  *Dorotea Monaco, Luigi Gonnella*  
-  Politecnico di Torino - Machine Learning for Visual and Multimedia Project
-
-- **Architectures for Code Development with LLMs** (2025)  
-  *Dorotea Monaco*  
-  Politecnico di Torino - Large Language Models for Software Engineering Project
-
 ## 🤝 Community & Impact
 
 Active volunteer with **AISM Torino** (Italian Multiple Sclerosis Association), organizing awareness campaigns, fundraising events, and school outreach programs. I apply inclusive design and accessibility principles to every project, believing that technology should improve lives and create positive social impact.
