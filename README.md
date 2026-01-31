@@ -1,34 +1,59 @@
 # Hi there, I'm Dorotea Monaco! 👋
 
 ## 🎓 About Me
-I'm a **Software Engineer** with a strong interest in **Artificial Intelligence**, currently pursuing my Master's in Software Engineering at Politecnico di Torino. I'm passionate about building human-centered solutions, and I'm actively expanding my AI skills through self-directed study to combine cutting-edge technology with accessibility and social impact.
+I'm a **Software Engineer** specializing in **Artificial Intelligence** and **Computer Vision**, currently pursuing my Master's in Software Engineering at Politecnico di Torino. I'm passionate about building production-ready solutions that combine cutting-edge AI/ML technology with accessibility and social impact. My work spans from medical imaging research to enterprise-grade full-stack applications.
 
 ## 🛠️ Tech Stack
 
-**Languages**: Python • JavaScript/TypeScript • Rust • Java • C • Assembly  
-**Frontend**: React.js • HTML/CSS • Vite  
-**Backend**: Node.js • Express • PostgreSQL • MySQL  
-**AI/ML**: PyTorch • NumPy • Pandas • Matplotlib  
-**Tools**: Docker • Redis • WebSockets • Agile/Scrum
+**Languages**: Python • JavaScript/TypeScript • Rust • Java • C • SQL • Assembly  
+
+**AI/ML**: PyTorch • TensorFlow • scikit-learn • GANs • LangGraph • OpenCV • XGBoost • NumPy • Pandas  
+
+**Frontend**: React.js • TypeScript • Tailwind CSS • Vite • HTML/CSS  
+
+**Backend**: Node.js • Express • PostgreSQL • MySQL • Prisma • Redis • REST APIs  
+
+**Tools & DevOps**: Docker • Git • Ollama • WebSockets • CI/CD • Jest • Agile/Scrum
 
 ## 🌟 Featured Projects
 
-- 🦀 **Ruggine**: Real-time chat application built with Rust, WebSockets, and Redis
-- 🃏 **Misfortune Game**: Strategic card game with demo and authenticated versions
-- 🕹️ **Pacman**: Classic arcade game in ARM Assembly on Landtiger LPC1768
-- 🌍 **GeoControl**: Environmental monitoring system for real-time data analysis
+### 🔬 Research & AI/ML
+- 🧬 **[GAN for Data Augmentation and Domain Adaptation](https://github.com/doroteaMonaco/GAN-for-Data-Augmentation-and-Domain-Adaptation)**: Systematic investigation of GANs for medical image classification (DCGAN, cDCGAN) with DANN evaluation on ISIC melanoma dataset. Research-grade quality with clinical applications focus.
+- 🤖 **[LLM Architectures for Code Development](https://github.com/doroteaMonaco/Architectures-for-Code-Development-with-LLMs)**: Multi-agent systems for automated code generation using LangGraph. Compares Naive Baseline, Single-Agent Pipeline, and Multi-Agent architectures with specialized roles (Planner, Coder, Critic).
+- 📊 **[Machine Learning Projects](https://github.com/doroteaMonaco/Machine-Learning-Projects)**: Comprehensive collection spanning computer vision (CIFAR-10: 78.51% accuracy), regression (California Housing: R² 0.844), transfer learning with ResNet18, and medical prediction systems.
+
+### 💼 Full-Stack Applications
+- 🏛️ **[Participium](https://github.com/doroteaMonaco/Participium-Software)**: Enterprise-grade civic engagement platform with interactive maps, RBAC system, real-time tracking, and PostgreSQL/Prisma backend. Production-ready architecture with Docker deployment.
+- 🌍 **[GeoControl](https://github.com/doroteaMonaco/GeoControl-Project-Software-Engeneering)**: Environmental monitoring system with real-time data analysis, automated alerts, and scalable TypeScript/Docker architecture.
+- 🦀 **[Ruggine](https://github.com/doroteaMonaco/Ruggine-App)**: Real-time chat application built with Rust, featuring native GUI (Iced), WebSocket communication, and Redis-backed secure messaging system.
+
+### 🎮 Other Projects
+- 🃏 **[Misfortune Game](https://github.com/doroteaMonaco/Misfortune-Game-Web-App-1)**: Strategic card game with React frontend and real-time gameplay mechanics.
+- 🕹️ **[Pacman](https://github.com/doroteaMonaco/PACMAN)**: Classic arcade game implementation in ARM Assembly for Landtiger LPC1768 with AI-driven ghost behavior.
+
+## 📝 Publications
+
+- **GANs for Data Augmentation in Imbalanced Medical Image Classification** (2025)  
+  *Dorotea Monaco, Luigi Gonnella*  
+  Politecnico di Torino - Machine Learning for Visual and Multimedia Project
+
+- **Architectures for Code Development with LLMs** (2025)  
+  *Dorotea Monaco*  
+  Politecnico di Torino - Large Language Models for Software Engineering Project
 
 ## 🤝 Community & Impact
 
-Active volunteer with **AISM Torino**, organizing awareness campaigns and fundraising events. I believe in using technology to create positive social impact and build more inclusive digital experiences.
+Active volunteer with **AISM Torino** (Italian Multiple Sclerosis Association), organizing awareness campaigns, fundraising events, and school outreach programs. I apply inclusive design and accessibility principles to every project, believing that technology should improve lives and create positive social impact.
 
 ## 📫 Let's Connect!
 
 - 🌐 Portfolio: [doroteamonaco.dev](https://doroteamonaco.dev)
 - 💼 LinkedIn: [Dorotea Monaco](https://www.linkedin.com/in/dorotea-monaco-0a0bba24a)
 - 📧 Email: dorotea.monaco@gmail.com
+- 💬 WhatsApp: [+39 334 850 4369](https://wa.me/+393348504369)
 
 ---
 
-*Always learning, always building, always looking for ways to make technology more human.* 🚀
-[![My Skills](https://skillicons.dev/icons?i=c,clion,css,discord,docker,git,github,gitlab,gmail,html,java,js,linux,matlab,mysql,mongodb,nodejs,powershell,pycharm,py,replit,rust,ubuntu,vscode,wordpress)](https://skillicons.dev)
+*Building AI-powered solutions that merge technical excellence with real-world impact.* 🚀
+
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,ts,react,nodejs,rust,java,c,postgresql,mysql,docker,redis,git,github,gitlab,linux,vscode)](https://skillicons.dev)
