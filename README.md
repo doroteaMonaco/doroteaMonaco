@@ -18,11 +18,6 @@ I'm a **Software Engineer** with a strong interest in **Artificial Intelligence*
 - 🕹️ **Pacman**: Classic arcade game in ARM Assembly on Landtiger LPC1768
 - 🌍 **GeoControl**: Environmental monitoring system for real-time data analysis
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doroteaMonaco&show_icons=true&theme=dark)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doroteaMonaco&layout=compact)
-
 ## 🤝 Community & Impact
 
 Active volunteer with **AISM Torino**, organizing awareness campaigns and fundraising events. I believe in using technology to create positive social impact and build more inclusive digital experiences.
