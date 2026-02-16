@@ -139,14 +139,6 @@ I am motivated by clean architecture, strong documentation, reproducibility, and
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doroteaMonaco&show_icons=true&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doroteaMonaco&layout=compact&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=doroteaMonaco&hide_border=true)
-
----
-
 ## Contact
 
 - Portfolio: [doroteamonaco.dev](https://doroteamonaco.dev)  
