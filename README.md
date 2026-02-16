@@ -4,7 +4,7 @@
 
 Master’s student in Software Engineering at **Politecnico di Torino**, specializing in Artificial Intelligence and Computer Vision.
 
-I design and build production-ready systems that combine research-grade AI with scalable engineering practices. I am particularly interested in contributing to impactful open-source projects through **Google Summer of Code (GSoC)**, focusing on AI systems, developer tooling, and high-performance architectures.
+I design and build production-ready systems that combine research-grade AI with scalable engineering practices. I am particularly interested in contributing to impactful open-source projects, focusing on AI systems, developer tooling, and high-performance architectures.
 
 ---
 
@@ -28,44 +28,33 @@ I enjoy working at the intersection of:
 
 ## Technical Skills
 
-### Programming Languages
+## Programming Languages
 
-```text
-Python        ████████████████████
-TypeScript    ██████████████████
-JavaScript    ██████████████████
-Rust          ████████████████
-Java          ██████████████
-C             ████████████
-SQL           ███████████████
-Assembly      ██████████
-```
+<svg xmlns="http://www.w3.org/2000/svg" width="77" height="28" role="img" aria-label="Python">
+  <title>Python</title>
+  <g shape-rendering="crispEdges"><rect width="77" height="28" fill="#3776AB"/></g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="100">
+    <text transform="scale(.1)" x="485" y="175" textLength="330" fill="#fff" font-weight="bold">PYTHON</text>
+  </g>
+</svg>
 
-### AI & ML
-```text
-PyTorch       ███████████████████
-TensorFlow    ████████████████
-scikit-learn  ████████████████
-OpenCV        ███████████████
-GANs          ███████████████
-XGBoost       █████████████
-LangGraph     ████████████
-NumPy         ███████████████████
-Pandas        ███████████████████
-```
+<svg xmlns="http://www.w3.org/2000/svg" width="77" height="28" role="img" aria-label="TypeScript">
+  <title>TypeScript</title>
+  <g shape-rendering="crispEdges"><rect width="77" height="28" fill="#3178C6"/></g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="100">
+    <text transform="scale(.1)" x="485" y="175" textLength="330" fill="#fff" font-weight="bold">TYPESCRIPT</text>
+  </g>
+</svg>
 
-### Full-Stack Development
-```text
-React         ██████████████████
-Node.js       ████████████████
-Express       ███████████████
-PostgreSQL    ███████████████
-MySQL         █████████████
-Prisma        ████████████
-Redis         ███████████
-REST APIs     █████████████████
-WebSockets    ████████████
-```
+<svg xmlns="http://www.w3.org/2000/svg" width="77" height="28" role="img" aria-label="JavaScript">
+  <title>JavaScript</title>
+  <g shape-rendering="crispEdges"><rect width="77" height="28" fill="#F7DF1E"/></g>
+  <g fill="#000" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="100">
+    <text transform="scale(.1)" x="485" y="175" textLength="330" fill="#000" font-weight="bold">JAVASCRIPT</text>
+  </g>
+</svg>
+
+
 ## Selected Projects
 
 ### GAN for Data Augmentation and Domain Adaptation
@@ -109,7 +98,7 @@ Enterprise-grade full-stack platform featuring:
 ### GeoControl — Environmental Monitoring System
 Real-time environmental monitoring with alerting mechanisms and containerized architecture.
 
-**Stack:** TypeScript, Docker, PostgreSQL
+**Stack:** TypeScript, Docker
 
 🔗 [GitHub Repository](https://github.com/doroteaMonaco/GeoControl-Project-Software-Engeneering)
 
