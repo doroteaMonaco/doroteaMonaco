@@ -28,31 +28,46 @@ I enjoy working at the intersection of:
 
 ## Technical Skills
 
-## Programming Languages
+## Technical Skills
 
-<svg xmlns="http://www.w3.org/2000/svg" width="77" height="28" role="img" aria-label="Python">
-  <title>Python</title>
-  <g shape-rendering="crispEdges"><rect width="77" height="28" fill="#3776AB"/></g>
-  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="100">
-    <text transform="scale(.1)" x="485" y="175" textLength="330" fill="#fff" font-weight="bold">PYTHON</text>
-  </g>
-</svg>
+### Programming & AI Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C1E?style=for-the-badge&logo=assembly&logoColor=white)
 
-<svg xmlns="http://www.w3.org/2000/svg" width="77" height="28" role="img" aria-label="TypeScript">
-  <title>TypeScript</title>
-  <g shape-rendering="crispEdges"><rect width="77" height="28" fill="#3178C6"/></g>
-  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="100">
-    <text transform="scale(.1)" x="485" y="175" textLength="330" fill="#fff" font-weight="bold">TYPESCRIPT</text>
-  </g>
-</svg>
+### Machine Learning & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF7F00?style=for-the-badge&logo=xgboost&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-<svg xmlns="http://www.w3.org/2000/svg" width="77" height="28" role="img" aria-label="JavaScript">
-  <title>JavaScript</title>
-  <g shape-rendering="crispEdges"><rect width="77" height="28" fill="#F7DF1E"/></g>
-  <g fill="#000" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="100">
-    <text transform="scale(.1)" x="485" y="175" textLength="330" fill="#000" font-weight="bold">JAVASCRIPT</text>
-  </g>
-</svg>
+### Data & Analytics
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge&logo=seaborn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### LLM & NLP Tools
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F68060?style=for-the-badge&logo=huggingface&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F61?style=for-the-badge&logo=graph?logoColor=white)
+
+### Cloud & AI Infrastructure (Learning)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+
 
 
 ## Selected Projects
