@@ -1,49 +1,157 @@
-# Hi there, I'm Dorotea Monaco! 👋
+# Dorotea Monaco
 
-## 🎓 About Me
-I'm a **Software Engineer** specializing in **Artificial Intelligence** and **Computer Vision**, currently pursuing my Master's in Software Engineering at Politecnico di Torino. I'm passionate about building production-ready solutions that combine cutting-edge AI/ML technology with accessibility and social impact. My work spans from medical imaging research to enterprise-grade full-stack applications.
+## Software Engineer | AI & Computer Vision | Open Source Enthusiast
 
-## 🛠️ Tech Stack
+Master’s student in Software Engineering at **Politecnico di Torino**, specializing in Artificial Intelligence and Computer Vision.
 
-**Languages**: Python • JavaScript/TypeScript • Rust • Java • C • SQL • Assembly  
-
-**AI/ML**: PyTorch • TensorFlow • scikit-learn • GANs • LangGraph • OpenCV • XGBoost • NumPy • Pandas  
-
-**Frontend**: React.js • TypeScript • Tailwind CSS • Vite • HTML/CSS  
-
-**Backend**: Node.js • Express • PostgreSQL • MySQL • Prisma • Redis • REST APIs  
-
-**Tools & DevOps**: Docker • Git • Ollama • WebSockets • CI/CD • Jest • Agile/Scrum
-
-## 🌟 Featured Projects
-
-### 🔬 Research & AI/ML
-- 🧬 **[GAN for Data Augmentation and Domain Adaptation](https://github.com/doroteaMonaco/GAN-for-Data-Augmentation-and-Domain-Adaptation)**: Systematic investigation of GANs for medical image classification (DCGAN, cDCGAN) with DANN evaluation on ISIC melanoma dataset. Research-grade quality with clinical applications focus.
-- 🤖 **[LLM Architectures for Code Development](https://github.com/doroteaMonaco/Architectures-for-Code-Development-with-LLMs)**: Multi-agent systems for automated code generation using LangGraph. Compares Naive Baseline, Single-Agent Pipeline, and Multi-Agent architectures with specialized roles (Planner, Coder, Critic).
-- 📊 **[Machine Learning Projects](https://github.com/doroteaMonaco/Machine-Learning-Projects)**: Comprehensive collection spanning computer vision (CIFAR-10: 78.51% accuracy), regression (California Housing: R² 0.844), transfer learning with ResNet18, and medical prediction systems.
-
-### 💼 Full-Stack Applications
-- 🏛️ **[Participium](https://github.com/doroteaMonaco/Participium-Software)**: Enterprise-grade civic engagement platform with interactive maps, RBAC system, real-time tracking, and PostgreSQL/Prisma backend. Production-ready architecture with Docker deployment.
-- 🌍 **[GeoControl](https://github.com/doroteaMonaco/GeoControl-Project-Software-Engeneering)**: Environmental monitoring system with real-time data analysis, automated alerts, and scalable TypeScript/Docker architecture.
-- 🦀 **[Ruggine](https://github.com/doroteaMonaco/Ruggine-App)**: Real-time chat application built with Rust, featuring native GUI (Iced), WebSocket communication, and Redis-backed secure messaging system.
-
-### 🎮 Other Projects
-- 🃏 **[Misfortune Game](https://github.com/doroteaMonaco/Misfortune-Game-Web-App-1)**: Strategic card game with React frontend and real-time gameplay mechanics.
-- 🕹️ **[Pacman](https://github.com/doroteaMonaco/PACMAN)**: Classic arcade game implementation in ARM Assembly for Landtiger LPC1768 with AI-driven ghost behavior.
-
-## 🤝 Community & Impact
-
-Active volunteer with **AISM Torino** (Italian Multiple Sclerosis Association), organizing awareness campaigns, fundraising events, and school outreach programs. I apply inclusive design and accessibility principles to every project, believing that technology should improve lives and create positive social impact.
-
-## 📫 Let's Connect!
-
-- 🌐 Portfolio: [doroteamonaco.dev](https://doroteamonaco.dev)
-- 💼 LinkedIn: [Dorotea Monaco](https://www.linkedin.com/in/dorotea-monaco-0a0bba24a)
-- 📧 Email: dorotea.monaco@gmail.com
-- 💬 WhatsApp: [+39 334 850 4369](https://wa.me/+393348504369)
+I design and build production-ready systems that combine research-grade AI with scalable engineering practices. I am particularly interested in contributing to impactful open-source projects through **Google Summer of Code (GSoC)**, focusing on AI systems, developer tooling, and high-performance architectures.
 
 ---
 
-*Building AI-powered solutions that merge technical excellence with real-world impact.* 🚀
+## About Me
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,ts,react,nodejs,rust,java,c,postgresql,mysql,docker,redis,git,github,gitlab,linux,vscode)](https://skillicons.dev)
+- MSc in Software Engineering — Politecnico di Torino  
+- Specialization: Artificial Intelligence & Computer Vision  
+- Research experience in GANs and medical image classification  
+- Strong background in full-stack and distributed systems  
+- Passionate about accessibility, inclusive design, and social impact  
+
+I enjoy working at the intersection of:
+
+- Machine Learning research  
+- LLM systems & evaluation  
+- Distributed backend systems  
+- Developer tools  
+- High-performance systems (Rust / C++)  
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+```text
+Python        ████████████████████
+TypeScript    ██████████████████
+JavaScript    ██████████████████
+Rust          ████████████████
+Java          ██████████████
+C             ████████████
+SQL           ███████████████
+Assembly      ██████████
+```
+
+### AI & ML
+```text
+PyTorch       ███████████████████
+TensorFlow    ████████████████
+scikit-learn  ████████████████
+OpenCV        ███████████████
+GANs          ███████████████
+XGBoost       █████████████
+LangGraph     ████████████
+NumPy         ███████████████████
+Pandas        ███████████████████
+```
+
+### Full-Stack Development
+```text
+React         ██████████████████
+Node.js       ████████████████
+Express       ███████████████
+PostgreSQL    ███████████████
+MySQL         █████████████
+Prisma        ████████████
+Redis         ███████████
+REST APIs     █████████████████
+WebSockets    ████████████
+```
+## Selected Projects
+
+### GAN for Data Augmentation and Domain Adaptation
+Systematic investigation of DCGAN and Conditional DCGAN for medical image classification (ISIC melanoma dataset).
+
+- Reproducible experimentation pipeline  
+- DANN-based domain adaptation evaluation  
+- Research-oriented methodology  
+
+🔗 [GitHub Repository](https://github.com/doroteaMonaco/GAN-for-Data-Augmentation-and-Domain-Adaptation)
+
+---
+
+### Multi-Agent LLM Architectures for Code Generation
+Comparative analysis of automated code generation systems:
+
+- Naive baseline  
+- Single-agent pipeline  
+- Multi-agent architecture (Planner, Coder, Critic)  
+
+Modular orchestration using LangGraph.
+
+🔗 [GitHub Repository](https://github.com/doroteaMonaco/Architectures-for-Code-Development-with-LLMs)
+
+---
+
+### Participium — Civic Engagement Platform
+Enterprise-grade full-stack platform featuring:
+
+- Role-Based Access Control (RBAC)  
+- Interactive maps  
+- Real-time updates  
+- Dockerized production deployment  
+
+**Stack:** React, Node.js, PostgreSQL, Prisma
+
+🔗 [GitHub Repository](https://github.com/doroteaMonaco/Participium-Software)
+
+---
+
+### GeoControl — Environmental Monitoring System
+Real-time environmental monitoring with alerting mechanisms and containerized architecture.
+
+**Stack:** TypeScript, Docker, PostgreSQL
+
+🔗 [GitHub Repository](https://github.com/doroteaMonaco/GeoControl-Project-Software-Engeneering)
+
+---
+
+### Ruggine — Real-Time Chat Application in Rust
+
+- Native GUI (Iced)  
+- WebSocket-based communication  
+- Redis-backed secure messaging  
+
+🔗 [GitHub Repository](https://github.com/doroteaMonaco/Ruggine-App)
+
+---
+
+## Open Source
+
+I am particularly interested in contributing to organizations working on:
+
+- AI/ML infrastructure  
+- Computer vision frameworks  
+- LLM orchestration & evaluation  
+- Developer productivity tools  
+- High-performance systems (Rust / C++)  
+
+I am motivated by clean architecture, strong documentation, reproducibility, and meaningful collaboration within open-source communities.
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doroteaMonaco&show_icons=true&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doroteaMonaco&layout=compact&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=doroteaMonaco&hide_border=true)
+
+---
+
+## Contact
+
+- Portfolio: [doroteamonaco.dev](https://doroteamonaco.dev)  
+- LinkedIn: [Dorotea Monaco](https://www.linkedin.com/in/dorotea-monaco-0a0bba24a)  
+- Email: dorotea.monaco@gmail.com
+
+
+
