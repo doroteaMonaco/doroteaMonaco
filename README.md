@@ -14,7 +14,9 @@
   </a>
 </p>
 
-Software Engineer focused on AI systems, ML infrastructure, and scalable software engineering.
+<h3 align="center">
+AI Systems • ML Infrastructure • Software Engineering
+</h3>
 
 MSc student in Software Engineering at Politecnico di Torino, specializing in Artificial Intelligence.
 
