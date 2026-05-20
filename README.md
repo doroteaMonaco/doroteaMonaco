@@ -1,147 +1,105 @@
 # Dorotea Monaco
 
-## Software Engineer | AI & Computer Vision | Open Source Enthusiast
+Software Engineer focused on AI systems, ML infrastructure, and scalable software engineering.
 
-Master’s student in Software Engineering at **Politecnico di Torino**, specializing in Artificial Intelligence and Computer Vision.
-
-I design and build production-ready systems that combine research-grade AI with scalable engineering practices. I am particularly interested in contributing to impactful open-source projects, focusing on AI systems, developer tooling, and high-performance architectures.
+MSc student in Software Engineering at Politecnico di Torino, specializing in Artificial Intelligence.
 
 ---
 
-## About Me
+## About
 
-- MSc in Software Engineering — Politecnico di Torino  
-- Specialization: Artificial Intelligence & Computer Vision  
-- Research experience in GANs and medical image classification  
-- Strong background in full-stack and distributed systems  
-- Passionate about accessibility, inclusive design, and social impact  
+I enjoy building systems that combine machine learning research with production-oriented engineering.
 
-I enjoy working at the intersection of:
+My interests include:
 
-- Machine Learning research  
-- LLM systems & evaluation  
-- Distributed backend systems  
-- Developer tools  
-- High-performance systems (Rust / C++)  
+* LLM systems & evaluation
+* Reinforcement Learning
+* RAG systems
+* Differentiable programming
+* Distributed systems
+* Open-source infrastructure
+
+I have contributed to open-source projects including **LLM4S** and **MoFA**, delivering production features, infrastructure improvements, testing, and developer tooling enhancements.
+
+Currently researching differentiable finite-element solvers for structural system identification using JAX and automatic differentiation.
 
 ---
-
-## Technical Skills
-
-### Programming & AI Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C1E?style=for-the-badge&logo=assembly&logoColor=white)
-
-### Machine Learning & Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF7F00?style=for-the-badge&logo=xgboost&logoColor=white)
-
-### Data & Analytics
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge&logo=seaborn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### LLM & NLP Tools
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F68060?style=for-the-badge&logo=huggingface&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6F61?style=for-the-badge&logo=graph?logoColor=white)
-
-### Cloud & AI Infrastructure (Learning)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
 
 ## Selected Projects
 
-### GAN for Data Augmentation and Domain Adaptation
-Systematic investigation of DCGAN and Conditional DCGAN for medical image classification (ISIC melanoma dataset).
+### Multi-Agent LLM Architectures
 
-- Reproducible experimentation pipeline  
-- DANN-based domain adaptation evaluation  
-- Research-oriented methodology  
+Designed and evaluated AI-assisted software development workflows using Naive, Single-Agent, and Multi-Agent architectures with planner–coder–critic orchestration.
 
-🔗 [GitHub Repository](https://github.com/doroteaMonaco/GAN-for-Data-Augmentation-and-Domain-Adaptation)
+**Stack:** Python, LangGraph, OpenAI
 
 ---
 
-### Multi-Agent LLM Architectures for Code Generation
-Comparative analysis of automated code generation systems:
+### GANs for Medical Imaging
 
-- Naive baseline  
-- Single-agent pipeline  
-- Multi-agent architecture (Planner, Coder, Critic)  
+Research project investigating DCGANs and Conditional GANs for synthetic data generation and domain adaptation in medical imaging.
 
-Modular orchestration using LangGraph.
+Improved classification robustness on imbalanced datasets through AI-driven augmentation pipelines.
 
-🔗 [GitHub Repository](https://github.com/doroteaMonaco/Architectures-for-Code-Development-with-LLMs)
+**Stack:** PyTorch, TensorFlow, scikit-learn
 
 ---
 
-### Participium — Civic Engagement Platform
-Enterprise-grade full-stack platform featuring:
+### Participium
 
-- Role-Based Access Control (RBAC)  
-- Interactive maps  
-- Real-time updates  
-- Dockerized production deployment  
+Full-stack civic engagement platform enabling citizens to report urban issues through interactive maps and real-time tracking systems.
 
-**Stack:** React, Node.js, PostgreSQL, Prisma
+Features include RBAC, geolocation, authentication, and Dockerized deployment.
 
-🔗 [GitHub Repository](https://github.com/doroteaMonaco/Participium-Software)
+**Stack:** React, TypeScript, Node.js, PostgreSQL, Docker
 
 ---
 
-### GeoControl — Environmental Monitoring System
-Real-time environmental monitoring with alerting mechanisms and containerized architecture.
+### Ruggine
+
+Secure real-time chat application written entirely in Rust with asynchronous architecture and encrypted messaging.
+
+**Stack:** Rust, Tokio, Redis, WebSockets, Docker
+
+---
+
+### GeoControl
+
+Containerized environmental monitoring platform with alerting systems and real-time data management.
 
 **Stack:** TypeScript, Docker
-
-🔗 [GitHub Repository](https://github.com/doroteaMonaco/GeoControl-Project-Software-Engeneering)
-
----
-
-### Ruggine — Real-Time Chat Application in Rust
-
-- Native GUI (Iced)  
-- WebSocket-based communication  
-- Redis-backed secure messaging  
-
-🔗 [GitHub Repository](https://github.com/doroteaMonaco/Ruggine-App)
 
 ---
 
 ## Open Source
 
-I am particularly interested in contributing to organizations working on:
+Interested in contributing to projects related to:
 
-- AI/ML infrastructure  
-- Computer vision frameworks  
-- LLM orchestration & evaluation  
-- Developer productivity tools  
-- High-performance systems (Rust / C++)  
+* AI/ML infrastructure
+* LLM orchestration & evaluation
+* Distributed systems
+* Developer tooling
+* High-performance systems
 
-I am motivated by clean architecture, strong documentation, reproducibility, and meaningful collaboration within open-source communities.
+I value clean architecture, reproducibility, maintainability, and collaborative open-source development.
+
+---
+
+## Tech
+
+**Languages**
+Python · TypeScript · Rust · Java · SQL · C
+
+**AI & ML**
+PyTorch · TensorFlow · JAX · LangGraph · scikit-learn
+
+**Infrastructure**
+Docker · Kubernetes · AWS · GitHub Actions · Linux
 
 ---
 
 ## Contact
 
-- Portfolio: [doroteamonaco.dev](https://doroteamonaco.dev)  
-- LinkedIn: [Dorotea Monaco](https://www.linkedin.com/in/dorotea-monaco-0a0bba24a)  
-- Email: dorotea.monaco@gmail.com
-
-
-
+Portfolio — https://doroteamonaco.dev
+LinkedIn — https://linkedin.com/in/dorotea-monaco-0a0bba24a
+GitHub — https://github.com/doroteaMonaco
