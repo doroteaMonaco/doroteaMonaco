@@ -15,7 +15,7 @@
 </p>
 
 <h3 align="center">
-AI Systems • ML Infrastructure • Software Engineering
+AI Systems | ML Infrastructure | Software Engineering
 </h3>
 
 MSc student in Software Engineering at Politecnico di Torino, specializing in Artificial Intelligence.
