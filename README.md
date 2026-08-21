@@ -23,16 +23,6 @@
 
 ---
 
-## About
-
-I build systems that bridge machine learning research and production-grade engineering — from LLM orchestration pipelines to differentiable solvers and distributed backends.
-
-I have contributed to open-source projects including **LLM4S** and **MoFA**, delivering production features, infrastructure improvements, test coverage, and developer tooling.
-
-**Interests:** LLM systems & evaluation · Reinforcement Learning · RAG · Differentiable programming · Distributed systems · Open-source infrastructure
-
----
-
 ## Tech Stack
 
 <h3 align="center"> Languages </h3>
