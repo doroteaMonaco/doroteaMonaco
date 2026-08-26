@@ -13,12 +13,12 @@
 </p>
 
 <p align="center">
-  <em>AI Systems &nbsp;·&nbsp; ML Infrastructure &nbsp;·&nbsp; Software Engineering</em>
+  <em>AI/ML &nbsp;·&nbsp;</em>
 </p>
 
 <p align="center">
   MSc Software Engineering · Politecnico di Torino · Specialization in Artificial Intelligence<br/>
-  <sub>BSc Computer Engineering — <strong>98/110</strong> &nbsp;·&nbsp; MSc GPA — <strong>28.88/30</strong></sub>
+  <sub>BSc Computer Engineering — <strong>98/110</strong> &nbsp;·&nbsp; MSc GPA — <strong>28.96/30</strong></sub>
 </p>
 
 ---
